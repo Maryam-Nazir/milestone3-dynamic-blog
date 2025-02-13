@@ -13,7 +13,7 @@ const Header = () => {
   return (
     <header className="header">
       <div className="logo">
-        Muskaan<span className="highlight">Blog</span>
+        Maryam<span className="highlight">Blog</span>
       </div>
       <button className="hamburger" onClick={toggleMenu}>
         <span className="bar"></span>

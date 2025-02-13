@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="footer-top">
           <Link href="/" className="footer-logo">
             <span className="logo">
-              Muskaan<span className="highlight">logo</span>
+              Maryam<span className="highlight">logo</span>
             </span>
           </Link>
         </div>
@@ -18,7 +18,8 @@ const Footer = () => {
         <div className="footer-content">
           <div className="footer-about">
             <h4>About AI Blog</h4>
-            <p>Stay updated with AI developments in various industries, from healthcare to gaming, and learn how AI is shaping the world.</p>
+            <p>Stay updated with AI developments in various industries, from healthcare to gaming,
+               and learn how AI is shaping the world.</p>
           </div>
 
           <div className="footer-links">
